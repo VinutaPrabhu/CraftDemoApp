@@ -10,4 +10,13 @@ import UIKit
 import CraftDemoFramework
 
 class ProgressCircleViewController: UIViewController {
+    
+    @IBOutlet weak var dateLabel: UILabel!
+    
+    override func viewDidLoad() {
+        let formatter = DateFormatter()
+        formatter.dateFormat = "dd/MM/yyyy"
+        
+        dateLabel.text = "As of \(formatter.string(from: Date()))"
+    }
 }

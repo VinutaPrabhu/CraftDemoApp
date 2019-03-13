@@ -18,41 +18,33 @@
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <containerView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="YtJ-Ov-fqR" userLabel="ProgressView">
-                                <rect key="frame" x="0.0" y="50" width="375" height="267"/>
-                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <connections>
-                                    <segue destination="ffx-jb-xbx" kind="embed" id="8YM-E6-GyI"/>
-                                </connections>
-                            </containerView>
-                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="fse-Ub-muE" userLabel="LineSeparator">
-                                <rect key="frame" x="10" y="317" width="355" height="3"/>
-                                <color key="backgroundColor" red="0.48784523280791398" green="0.66125148879293705" blue="0.66666668653488159" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" constant="3" id="oBa-8v-k7L"/>
-                                </constraints>
-                            </view>
-                            <containerView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="gqi-xH-Xt9" userLabel="StatusView">
-                                <rect key="frame" x="0.0" y="320" width="375" height="347"/>
-                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <connections>
-                                    <segue destination="QRg-vB-rPL" kind="embed" id="gBM-UI-SfE"/>
-                                </connections>
-                            </containerView>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillEqually" translatesAutoresizingMaskIntoConstraints="NO" id="SdY-Z6-vuH">
+                                <rect key="frame" x="0.0" y="40" width="375" height="627"/>
+                                <subviews>
+                                    <containerView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="YtJ-Ov-fqR" userLabel="ProgressView">
+                                        <rect key="frame" x="0.0" y="0.0" width="375" height="313.5"/>
+                                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <connections>
+                                            <segue destination="ffx-jb-xbx" kind="embed" id="8YM-E6-GyI"/>
+                                        </connections>
+                                    </containerView>
+                                    <containerView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="gqi-xH-Xt9" userLabel="StatusView">
+                                        <rect key="frame" x="0.0" y="313.5" width="375" height="313.5"/>
+                                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <connections>
+                                            <segue destination="QRg-vB-rPL" kind="embed" id="gBM-UI-SfE"/>
+                                        </connections>
+                                    </containerView>
+                                </subviews>
+                                <variation key="heightClass=compact" axis="horizontal"/>
+                            </stackView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
-                            <constraint firstItem="gqi-xH-Xt9" firstAttribute="top" secondItem="fse-Ub-muE" secondAttribute="bottom" id="4yH-MB-TPy"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="gqi-xH-Xt9" secondAttribute="bottom" id="G6S-Tx-Xf8"/>
-                            <constraint firstItem="YtJ-Ov-fqR" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="30" id="Hog-We-NX4"/>
-                            <constraint firstItem="YtJ-Ov-fqR" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="ILv-5G-GOn"/>
-                            <constraint firstItem="fse-Ub-muE" firstAttribute="top" secondItem="YtJ-Ov-fqR" secondAttribute="bottom" id="Lj3-yh-W5C"/>
-                            <constraint firstItem="gqi-xH-Xt9" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="RBu-qI-3Ua"/>
-                            <constraint firstItem="YtJ-Ov-fqR" firstAttribute="height" secondItem="8bC-Xf-vdC" secondAttribute="height" multiplier="0.4" id="df9-zg-Dve"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="gqi-xH-Xt9" secondAttribute="trailing" id="eAe-nH-nDU"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="fse-Ub-muE" secondAttribute="trailing" constant="10" id="fHm-nQ-bbt"/>
-                            <constraint firstItem="fse-Ub-muE" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="10" id="lyO-Ua-yZd"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="YtJ-Ov-fqR" secondAttribute="trailing" id="s6i-iO-fFS"/>
+                            <constraint firstItem="SdY-Z6-vuH" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" id="4SL-rV-HgK"/>
+                            <constraint firstItem="SdY-Z6-vuH" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="20" id="8x9-fk-SE8"/>
+                            <constraint firstItem="SdY-Z6-vuH" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="BJT-Pf-hbk"/>
+                            <constraint firstItem="SdY-Z6-vuH" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="x6E-He-2G6"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
@@ -66,22 +58,47 @@
             <objects>
                 <viewController id="ffx-jb-xbx" customClass="ProgressCircleViewController" customModule="CraftDemoApp" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="QSB-8S-Lb5" customClass="ProgressArcView" customModule="CraftDemoFramework">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="267"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="313.5"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="KMa-nV-xTr">
+                                <rect key="frame" x="0.0" y="293.5" width="375" height="0.0"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="0 - 1000  " textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Isr-eV-SUU" userLabel="RangeLabel">
+                                <rect key="frame" x="0.0" y="262.5" width="375" height="21"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="vde-fp-Oe2" firstAttribute="trailing" secondItem="KMa-nV-xTr" secondAttribute="trailing" id="1JL-bA-sGI"/>
+                            <constraint firstItem="Isr-eV-SUU" firstAttribute="bottom" secondItem="KMa-nV-xTr" secondAttribute="top" constant="-10" id="NuX-Wz-4zj"/>
+                            <constraint firstItem="vde-fp-Oe2" firstAttribute="trailing" secondItem="Isr-eV-SUU" secondAttribute="trailing" id="bkU-Ob-qeQ"/>
+                            <constraint firstItem="vde-fp-Oe2" firstAttribute="bottom" secondItem="KMa-nV-xTr" secondAttribute="bottom" constant="20" id="kbc-bh-ifK"/>
+                            <constraint firstItem="KMa-nV-xTr" firstAttribute="leading" secondItem="vde-fp-Oe2" secondAttribute="leading" id="lP1-72-Osl"/>
+                            <constraint firstItem="Isr-eV-SUU" firstAttribute="leading" secondItem="vde-fp-Oe2" secondAttribute="leading" id="vMh-s4-mpo"/>
+                        </constraints>
                         <viewLayoutGuide key="safeArea" id="vde-fp-Oe2"/>
                     </view>
+                    <connections>
+                        <outlet property="dateLabel" destination="KMa-nV-xTr" id="Pmv-4O-wSI"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="jtU-BC-y26" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="918" y="-93"/>
+            <point key="canvasLocation" x="917.60000000000002" y="-93.553223388305852"/>
         </scene>
         <!--Status View Controller-->
         <scene sceneID="i5Y-dK-YrY">
             <objects>
                 <viewController id="QRg-vB-rPL" customClass="StatusViewController" customModule="CraftDemoApp" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="uhz-JN-BEh">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="347"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="313.5"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Where You Stand" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Emh-7K-OvV">
@@ -91,7 +108,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="zBC-aG-9Jg" customClass="StatusStackView" customModule="CraftDemoFramework">
-                                <rect key="frame" x="30" y="60" width="325" height="267"/>
+                                <rect key="frame" x="30" y="60" width="325" height="233.5"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                             </view>
                         </subviews>

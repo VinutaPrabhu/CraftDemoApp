@@ -11,4 +11,10 @@ import CraftDemoFramework
 
 class StatusViewController: UIViewController {
     @IBOutlet weak var statusStackView: StatusStackView!
+    
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        view.layer.borderColor = UIColor.cyan.cgColor
+        view.layer.borderWidth = 2
+    }
 }
