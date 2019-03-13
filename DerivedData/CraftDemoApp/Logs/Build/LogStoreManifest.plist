@@ -5,6 +5,5517 @@
 	<key>logFormatVersion</key>
 	<integer>9</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>011C55B9-A11D-4B4F-9A9A-D98F7CCDF495</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>011C55B9-A11D-4B4F-9A9A-D98F7CCDF495.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574167457.71129096</real>
+			<key>timeStoppedRecording</key>
+			<real>574167467.91290295</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>011C55B9-A11D-4B4F-9A9A-D98F7CCDF495</string>
+		</dict>
+		<key>03EB7D0C-5381-4EB4-94C7-3A046CBBF282</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>03EB7D0C-5381-4EB4-94C7-3A046CBBF282.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574163837.01901197</real>
+			<key>timeStoppedRecording</key>
+			<real>574163848.14809406</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>03EB7D0C-5381-4EB4-94C7-3A046CBBF282</string>
+		</dict>
+		<key>0472DA5F-F224-4F03-A871-D4E40B80AAC5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0472DA5F-F224-4F03-A871-D4E40B80AAC5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574156297.97159004</real>
+			<key>timeStoppedRecording</key>
+			<real>574156308.22862101</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>0472DA5F-F224-4F03-A871-D4E40B80AAC5</string>
+		</dict>
+		<key>0546F625-977D-4E6D-8D0B-79BF9B2A47B3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0546F625-977D-4E6D-8D0B-79BF9B2A47B3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574163356.96361899</real>
+			<key>timeStoppedRecording</key>
+			<real>574163361.72416794</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>0546F625-977D-4E6D-8D0B-79BF9B2A47B3</string>
+		</dict>
+		<key>05CB637F-ECAB-485C-81C9-500017FF64B6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>05CB637F-ECAB-485C-81C9-500017FF64B6.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574151077.76926398</real>
+			<key>timeStoppedRecording</key>
+			<real>574151078.16883302</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>05CB637F-ECAB-485C-81C9-500017FF64B6</string>
+		</dict>
+		<key>05E57E50-23A3-42C1-ABBA-DDF159968688</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>05E57E50-23A3-42C1-ABBA-DDF159968688.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574159445.73499405</real>
+			<key>timeStoppedRecording</key>
+			<real>574159456.610901</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>05E57E50-23A3-42C1-ABBA-DDF159968688</string>
+		</dict>
+		<key>06A034E1-3AA9-45D7-8F11-B2B3C81CED6B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>06A034E1-3AA9-45D7-8F11-B2B3C81CED6B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574163334.76142597</real>
+			<key>timeStoppedRecording</key>
+			<real>574163344.88183606</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>06A034E1-3AA9-45D7-8F11-B2B3C81CED6B</string>
+		</dict>
+		<key>06EF9D7D-150C-482C-87DE-74132A74E95D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>06EF9D7D-150C-482C-87DE-74132A74E95D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574160581.930058</real>
+			<key>timeStoppedRecording</key>
+			<real>574160593.23009396</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>06EF9D7D-150C-482C-87DE-74132A74E95D</string>
+		</dict>
+		<key>0730FE6E-F308-4063-A866-022E2440F4CA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0730FE6E-F308-4063-A866-022E2440F4CA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574156002.23458803</real>
+			<key>timeStoppedRecording</key>
+			<real>574156012.67818201</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>0730FE6E-F308-4063-A866-022E2440F4CA</string>
+		</dict>
+		<key>081B6CF7-8F08-48FE-949D-D685AC6D4A64</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>081B6CF7-8F08-48FE-949D-D685AC6D4A64.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574164194.52185404</real>
+			<key>timeStoppedRecording</key>
+			<real>574164204.37592304</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>081B6CF7-8F08-48FE-949D-D685AC6D4A64</string>
+		</dict>
+		<key>08EE5FEB-A709-4532-B35A-0D5AEE6A92B9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>08EE5FEB-A709-4532-B35A-0D5AEE6A92B9.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574162232.19508302</real>
+			<key>timeStoppedRecording</key>
+			<real>574162242.08651304</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>08EE5FEB-A709-4532-B35A-0D5AEE6A92B9</string>
+		</dict>
+		<key>09953192-DD8B-4CBF-A7E4-470B4BF1DF9D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>09953192-DD8B-4CBF-A7E4-470B4BF1DF9D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574163703.04833603</real>
+			<key>timeStoppedRecording</key>
+			<real>574163713.32600498</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>09953192-DD8B-4CBF-A7E4-470B4BF1DF9D</string>
+		</dict>
+		<key>0A5CD262-6D64-4F74-933C-689E24800318</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0A5CD262-6D64-4F74-933C-689E24800318.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574152615.49281704</real>
+			<key>timeStoppedRecording</key>
+			<real>574152625.45164299</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>0A5CD262-6D64-4F74-933C-689E24800318</string>
+		</dict>
+		<key>0AE32CD1-1E6E-472F-B17D-CFDB431D1E94</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0AE32CD1-1E6E-472F-B17D-CFDB431D1E94.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574163863.92973101</real>
+			<key>timeStoppedRecording</key>
+			<real>574163873.59856904</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>0AE32CD1-1E6E-472F-B17D-CFDB431D1E94</string>
+		</dict>
+		<key>0CA65129-4D39-407B-AC53-17796F11BE31</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0CA65129-4D39-407B-AC53-17796F11BE31.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574165374.95785403</real>
+			<key>timeStoppedRecording</key>
+			<real>574165385.33883202</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>0CA65129-4D39-407B-AC53-17796F11BE31</string>
+		</dict>
+		<key>0E0767C5-8796-44E9-8748-E2C58125DC07</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0E0767C5-8796-44E9-8748-E2C58125DC07.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574161968.30993903</real>
+			<key>timeStoppedRecording</key>
+			<real>574161978.70043802</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>0E0767C5-8796-44E9-8748-E2C58125DC07</string>
+		</dict>
+		<key>1063F451-517D-4EBB-B313-1D46F6E8A4B4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1063F451-517D-4EBB-B313-1D46F6E8A4B4.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574155660.37702894</real>
+			<key>timeStoppedRecording</key>
+			<real>574155663.04298496</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>1063F451-517D-4EBB-B313-1D46F6E8A4B4</string>
+		</dict>
+		<key>11256F98-98B9-4F34-A0B2-FFB3949A361E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>11256F98-98B9-4F34-A0B2-FFB3949A361E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574166718.78416502</real>
+			<key>timeStoppedRecording</key>
+			<real>574166728.64931595</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>11256F98-98B9-4F34-A0B2-FFB3949A361E</string>
+		</dict>
+		<key>128F0E23-9DA5-45F3-BE0A-1F3D9D206BA1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>128F0E23-9DA5-45F3-BE0A-1F3D9D206BA1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574167042.14816701</real>
+			<key>timeStoppedRecording</key>
+			<real>574167051.54946804</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>128F0E23-9DA5-45F3-BE0A-1F3D9D206BA1</string>
+		</dict>
+		<key>1385E6FE-50A6-482B-B1E8-9E469B743EEE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1385E6FE-50A6-482B-B1E8-9E469B743EEE.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574163291.62812304</real>
+			<key>timeStoppedRecording</key>
+			<real>574163301.86160302</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>1385E6FE-50A6-482B-B1E8-9E469B743EEE</string>
+		</dict>
+		<key>16566E85-BD1A-43C5-B00C-90219A91D082</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>16566E85-BD1A-43C5-B00C-90219A91D082.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574162972.17146599</real>
+			<key>timeStoppedRecording</key>
+			<real>574162983.22292602</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>16566E85-BD1A-43C5-B00C-90219A91D082</string>
+		</dict>
+		<key>167C79FD-8687-4B7E-8FF3-B5B8F3CF913B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>167C79FD-8687-4B7E-8FF3-B5B8F3CF913B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574160951.64484203</real>
+			<key>timeStoppedRecording</key>
+			<real>574160962.104864</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>167C79FD-8687-4B7E-8FF3-B5B8F3CF913B</string>
+		</dict>
+		<key>187984F9-77A6-4FFF-A3C4-6FD5FD9F7EF5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>187984F9-77A6-4FFF-A3C4-6FD5FD9F7EF5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574157371.88569796</real>
+			<key>timeStoppedRecording</key>
+			<real>574157381.75448704</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>187984F9-77A6-4FFF-A3C4-6FD5FD9F7EF5</string>
+		</dict>
+		<key>1C2DFD95-4771-40B8-BCB9-13D105872A12</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1C2DFD95-4771-40B8-BCB9-13D105872A12.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574152321.03198397</real>
+			<key>timeStoppedRecording</key>
+			<real>574152331.20096397</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>1C2DFD95-4771-40B8-BCB9-13D105872A12</string>
+		</dict>
+		<key>1C4EB166-6458-4381-BB6A-FE106E050DDC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1C4EB166-6458-4381-BB6A-FE106E050DDC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574162962.33996999</real>
+			<key>timeStoppedRecording</key>
+			<real>574162972.06368601</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>1C4EB166-6458-4381-BB6A-FE106E050DDC</string>
+		</dict>
+		<key>1C58DA2B-D947-4D98-A8E0-53BB224038ED</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1C58DA2B-D947-4D98-A8E0-53BB224038ED.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574165323.76858401</real>
+			<key>timeStoppedRecording</key>
+			<real>574165335.19898105</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>1C58DA2B-D947-4D98-A8E0-53BB224038ED</string>
+		</dict>
+		<key>1CEB7FBB-0EC7-40E0-9E1C-5ED3076D0FE3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1CEB7FBB-0EC7-40E0-9E1C-5ED3076D0FE3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574152421.33129895</real>
+			<key>timeStoppedRecording</key>
+			<real>574152431.30463898</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>1CEB7FBB-0EC7-40E0-9E1C-5ED3076D0FE3</string>
+		</dict>
+		<key>1E0DE9CF-5809-465E-8A79-DF9FBC9ADAD3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1E0DE9CF-5809-465E-8A79-DF9FBC9ADAD3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574152902.04152906</real>
+			<key>timeStoppedRecording</key>
+			<real>574152902.40683496</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>1E0DE9CF-5809-465E-8A79-DF9FBC9ADAD3</string>
+		</dict>
+		<key>1F7C0962-2CEF-456D-BE47-39881BAED2DD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1F7C0962-2CEF-456D-BE47-39881BAED2DD.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574165790.38669097</real>
+			<key>timeStoppedRecording</key>
+			<real>574165800.81654</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>1F7C0962-2CEF-456D-BE47-39881BAED2DD</string>
+		</dict>
+		<key>1FA85B4F-B14D-4F16-A12E-EA9AC1DC0347</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1FA85B4F-B14D-4F16-A12E-EA9AC1DC0347.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574163741.04410696</real>
+			<key>timeStoppedRecording</key>
+			<real>574163751.51901805</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>1FA85B4F-B14D-4F16-A12E-EA9AC1DC0347</string>
+		</dict>
+		<key>2252CC30-1E88-44D3-A38C-2EA60F3A263F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2252CC30-1E88-44D3-A38C-2EA60F3A263F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574162758.40808594</real>
+			<key>timeStoppedRecording</key>
+			<real>574162768.33962202</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>2252CC30-1E88-44D3-A38C-2EA60F3A263F</string>
+		</dict>
+		<key>2392D630-0369-4D9D-8BCA-2C769A335E07</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2392D630-0369-4D9D-8BCA-2C769A335E07.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574156827.79637396</real>
+			<key>timeStoppedRecording</key>
+			<real>574156838.66938198</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>2392D630-0369-4D9D-8BCA-2C769A335E07</string>
+		</dict>
+		<key>24709D66-9B49-42BF-B006-449E54818E5A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>24709D66-9B49-42BF-B006-449E54818E5A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574150666.62349105</real>
+			<key>timeStoppedRecording</key>
+			<real>574150678.68301499</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>24709D66-9B49-42BF-B006-449E54818E5A</string>
+		</dict>
+		<key>25D688CC-1E49-49DE-93B4-4AFCFA222912</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>25D688CC-1E49-49DE-93B4-4AFCFA222912.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574166179.291839</real>
+			<key>timeStoppedRecording</key>
+			<real>574166190.76438105</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>25D688CC-1E49-49DE-93B4-4AFCFA222912</string>
+		</dict>
+		<key>25D73942-F647-41EB-9885-A4945D7E1592</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>25D73942-F647-41EB-9885-A4945D7E1592.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574166712.79034102</real>
+			<key>timeStoppedRecording</key>
+			<real>574166713.78654695</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>25D73942-F647-41EB-9885-A4945D7E1592</string>
+		</dict>
+		<key>26B2DBF7-AAAC-42BF-B12B-B924A9464C9F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>26B2DBF7-AAAC-42BF-B12B-B924A9464C9F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574166091.13217294</real>
+			<key>timeStoppedRecording</key>
+			<real>574166101.80685103</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>26B2DBF7-AAAC-42BF-B12B-B924A9464C9F</string>
+		</dict>
+		<key>273BE7A9-26E1-46F0-908D-B257D7F3974F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>273BE7A9-26E1-46F0-908D-B257D7F3974F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574160504.57614505</real>
+			<key>timeStoppedRecording</key>
+			<real>574160514.78859103</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>273BE7A9-26E1-46F0-908D-B257D7F3974F</string>
+		</dict>
+		<key>29511166-2E3C-4920-A73D-9F23551D36CB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>29511166-2E3C-4920-A73D-9F23551D36CB.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574162045.48206496</real>
+			<key>timeStoppedRecording</key>
+			<real>574162056.02610195</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>29511166-2E3C-4920-A73D-9F23551D36CB</string>
+		</dict>
+		<key>2C442F4E-9E6D-47DE-A1B1-30753E3A7CEA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2C442F4E-9E6D-47DE-A1B1-30753E3A7CEA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574152310.15725899</real>
+			<key>timeStoppedRecording</key>
+			<real>574152320.92237699</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>2C442F4E-9E6D-47DE-A1B1-30753E3A7CEA</string>
+		</dict>
+		<key>30DBB673-EC57-42A0-A268-0F515EE26D48</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>30DBB673-EC57-42A0-A268-0F515EE26D48.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574153795.72654402</real>
+			<key>timeStoppedRecording</key>
+			<real>574153805.65556598</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>30DBB673-EC57-42A0-A268-0F515EE26D48</string>
+		</dict>
+		<key>32813727-EB59-47AC-92ED-48F6EA87C27A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>32813727-EB59-47AC-92ED-48F6EA87C27A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574167059.89316595</real>
+			<key>timeStoppedRecording</key>
+			<real>574167070.76934803</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>32813727-EB59-47AC-92ED-48F6EA87C27A</string>
+		</dict>
+		<key>32A4C6DC-6162-4B5C-8619-F9D8D40992F0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>32A4C6DC-6162-4B5C-8619-F9D8D40992F0.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574159839.42139006</real>
+			<key>timeStoppedRecording</key>
+			<real>574159849.56516898</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>32A4C6DC-6162-4B5C-8619-F9D8D40992F0</string>
+		</dict>
+		<key>32AF4284-3DA8-44F3-8EBF-7730267C581A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>32AF4284-3DA8-44F3-8EBF-7730267C581A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574160782.95188606</real>
+			<key>timeStoppedRecording</key>
+			<real>574160793.21653497</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>32AF4284-3DA8-44F3-8EBF-7730267C581A</string>
+		</dict>
+		<key>330D0F64-596E-4CEB-A313-FD7884C2CAC3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>330D0F64-596E-4CEB-A313-FD7884C2CAC3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574151066.04825306</real>
+			<key>timeStoppedRecording</key>
+			<real>574151076.07919705</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>330D0F64-596E-4CEB-A313-FD7884C2CAC3</string>
+		</dict>
+		<key>345CAF2F-BEB9-4D40-A6EF-85773C1B1766</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>345CAF2F-BEB9-4D40-A6EF-85773C1B1766.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574157599.22678399</real>
+			<key>timeStoppedRecording</key>
+			<real>574157615.00284505</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>345CAF2F-BEB9-4D40-A6EF-85773C1B1766</string>
+		</dict>
+		<key>34F584AF-9657-4A80-BBCF-F1FDB32666C5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>34F584AF-9657-4A80-BBCF-F1FDB32666C5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574157311.97116196</real>
+			<key>timeStoppedRecording</key>
+			<real>574157322.03795099</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>34F584AF-9657-4A80-BBCF-F1FDB32666C5</string>
+		</dict>
+		<key>3593ACB7-174F-4CEC-8EFC-B2C86542383B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3593ACB7-174F-4CEC-8EFC-B2C86542383B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574156864.92639399</real>
+			<key>timeStoppedRecording</key>
+			<real>574156875.17604101</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>3593ACB7-174F-4CEC-8EFC-B2C86542383B</string>
+		</dict>
+		<key>359C1296-6B4E-49D3-983B-D57A93CD1F4B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>359C1296-6B4E-49D3-983B-D57A93CD1F4B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574157750.82410002</real>
+			<key>timeStoppedRecording</key>
+			<real>574157770.12720895</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>359C1296-6B4E-49D3-983B-D57A93CD1F4B</string>
+		</dict>
+		<key>372F3CC7-FB33-45EE-B8B3-C785274C65E7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>372F3CC7-FB33-45EE-B8B3-C785274C65E7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574156533.00177705</real>
+			<key>timeStoppedRecording</key>
+			<real>574156545.53915596</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>372F3CC7-FB33-45EE-B8B3-C785274C65E7</string>
+		</dict>
+		<key>394E41E5-6882-4466-80E9-AB9D641482CA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>394E41E5-6882-4466-80E9-AB9D641482CA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574159770.18749499</real>
+			<key>timeStoppedRecording</key>
+			<real>574159780.55050194</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>394E41E5-6882-4466-80E9-AB9D641482CA</string>
+		</dict>
+		<key>3987C331-7254-461D-9A3C-18FC7AC50BA2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3987C331-7254-461D-9A3C-18FC7AC50BA2.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574167164.97183204</real>
+			<key>timeStoppedRecording</key>
+			<real>574167174.68508399</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>3987C331-7254-461D-9A3C-18FC7AC50BA2</string>
+		</dict>
+		<key>3A1287F9-8E98-4FEC-89D1-B0E210C6801C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3A1287F9-8E98-4FEC-89D1-B0E210C6801C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574150339.12217104</real>
+			<key>timeStoppedRecording</key>
+			<real>574150371.74080801</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>3A1287F9-8E98-4FEC-89D1-B0E210C6801C</string>
+		</dict>
+		<key>3C7C3290-3701-4640-A52C-B53D5D7287CE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3C7C3290-3701-4640-A52C-B53D5D7287CE.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574155663.06310201</real>
+			<key>timeStoppedRecording</key>
+			<real>574155673.95232499</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>3C7C3290-3701-4640-A52C-B53D5D7287CE</string>
+		</dict>
+		<key>4014D3DD-7F66-4465-85E7-D6CA0B8923E1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4014D3DD-7F66-4465-85E7-D6CA0B8923E1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574154865.38814604</real>
+			<key>timeStoppedRecording</key>
+			<real>574154877.37304103</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>4014D3DD-7F66-4465-85E7-D6CA0B8923E1</string>
+		</dict>
+		<key>4037C7C7-E691-455B-8101-BC50BBA9F990</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4037C7C7-E691-455B-8101-BC50BBA9F990.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574161752.63280702</real>
+			<key>timeStoppedRecording</key>
+			<real>574161762.70927405</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>4037C7C7-E691-455B-8101-BC50BBA9F990</string>
+		</dict>
+		<key>416D9A57-8844-4E1B-B775-8FAC2620516A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>416D9A57-8844-4E1B-B775-8FAC2620516A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574151397.61162102</real>
+			<key>timeStoppedRecording</key>
+			<real>574151404.11354697</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>416D9A57-8844-4E1B-B775-8FAC2620516A</string>
+		</dict>
+		<key>4253D402-C743-4184-A7DE-37C1E6CFB6CA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4253D402-C743-4184-A7DE-37C1E6CFB6CA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574163413.82393301</real>
+			<key>timeStoppedRecording</key>
+			<real>574163424.59619701</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>4253D402-C743-4184-A7DE-37C1E6CFB6CA</string>
+		</dict>
+		<key>432D349C-0199-4F8F-B044-70AD207DD1D4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>432D349C-0199-4F8F-B044-70AD207DD1D4.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574163365.61586106</real>
+			<key>timeStoppedRecording</key>
+			<real>574163375.16800106</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>432D349C-0199-4F8F-B044-70AD207DD1D4</string>
+		</dict>
+		<key>45BD5C16-B6DD-4CEB-896F-FAC1F82968EB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>45BD5C16-B6DD-4CEB-896F-FAC1F82968EB.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574152486.49350297</real>
+			<key>timeStoppedRecording</key>
+			<real>574152496.22888505</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>45BD5C16-B6DD-4CEB-896F-FAC1F82968EB</string>
+		</dict>
+		<key>481725A5-E3E0-4E27-9BEA-497A5BFB1023</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>481725A5-E3E0-4E27-9BEA-497A5BFB1023.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574150695.03008401</real>
+			<key>timeStoppedRecording</key>
+			<real>574150704.66682804</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>481725A5-E3E0-4E27-9BEA-497A5BFB1023</string>
+		</dict>
+		<key>492A929A-E6BB-4337-A370-4D4D6B8EB96F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>492A929A-E6BB-4337-A370-4D4D6B8EB96F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574165842.64939499</real>
+			<key>timeStoppedRecording</key>
+			<real>574165853.42879403</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>492A929A-E6BB-4337-A370-4D4D6B8EB96F</string>
+		</dict>
+		<key>4ACC0683-698C-4303-9DE5-3F393FCCB9BB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4ACC0683-698C-4303-9DE5-3F393FCCB9BB.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574155145.03677201</real>
+			<key>timeStoppedRecording</key>
+			<real>574155156.16755402</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>4ACC0683-698C-4303-9DE5-3F393FCCB9BB</string>
+		</dict>
+		<key>4CB1A0A9-402A-4065-895E-45F1EB9DC444</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4CB1A0A9-402A-4065-895E-45F1EB9DC444.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574154810.28827703</real>
+			<key>timeStoppedRecording</key>
+			<real>574154821.35141504</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>4CB1A0A9-402A-4065-895E-45F1EB9DC444</string>
+		</dict>
+		<key>5015E4AF-70F5-490B-9EAF-2BF89E07D5C7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5015E4AF-70F5-490B-9EAF-2BF89E07D5C7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574152158.957358</real>
+			<key>timeStoppedRecording</key>
+			<real>574152170.33580804</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>5015E4AF-70F5-490B-9EAF-2BF89E07D5C7</string>
+		</dict>
+		<key>502319F8-7336-45EB-B799-A15F9E203F18</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>502319F8-7336-45EB-B799-A15F9E203F18.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574153839.46111095</real>
+			<key>timeStoppedRecording</key>
+			<real>574153850.10867703</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>502319F8-7336-45EB-B799-A15F9E203F18</string>
+		</dict>
+		<key>50FA6A64-9988-44B2-A6D2-EFF1856F326C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>50FA6A64-9988-44B2-A6D2-EFF1856F326C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574157703.85503304</real>
+			<key>timeStoppedRecording</key>
+			<real>574157730.730878</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>50FA6A64-9988-44B2-A6D2-EFF1856F326C</string>
+		</dict>
+		<key>53CA674C-CFC9-4CD4-9DB8-BEE5C1EA3F76</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>53CA674C-CFC9-4CD4-9DB8-BEE5C1EA3F76.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574165585.10846198</real>
+			<key>timeStoppedRecording</key>
+			<real>574165595.418715</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>53CA674C-CFC9-4CD4-9DB8-BEE5C1EA3F76</string>
+		</dict>
+		<key>54273EC8-5A09-4221-A9A4-F8F1CB54658A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>54273EC8-5A09-4221-A9A4-F8F1CB54658A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574166680.10006905</real>
+			<key>timeStoppedRecording</key>
+			<real>574166690.999053</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>54273EC8-5A09-4221-A9A4-F8F1CB54658A</string>
+		</dict>
+		<key>5636CECE-51F9-451D-B44B-1D14B9C68AE5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5636CECE-51F9-451D-B44B-1D14B9C68AE5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574155137.14529097</real>
+			<key>timeStoppedRecording</key>
+			<real>574155144.96317303</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>5636CECE-51F9-451D-B44B-1D14B9C68AE5</string>
+		</dict>
+		<key>57169EEC-9FA2-4F9C-80C8-4776C0125F06</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>57169EEC-9FA2-4F9C-80C8-4776C0125F06.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574155498.27899504</real>
+			<key>timeStoppedRecording</key>
+			<real>574155508.80157006</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>57169EEC-9FA2-4F9C-80C8-4776C0125F06</string>
+		</dict>
+		<key>579EE33A-8631-4D35-8B42-E3A347ABB5CD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>579EE33A-8631-4D35-8B42-E3A347ABB5CD.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574167019.69281995</real>
+			<key>timeStoppedRecording</key>
+			<real>574167022.02221203</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>579EE33A-8631-4D35-8B42-E3A347ABB5CD</string>
+		</dict>
+		<key>57B114C7-4CFD-41E3-B379-72B86B2EEFA3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>57B114C7-4CFD-41E3-B379-72B86B2EEFA3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574166403.98673797</real>
+			<key>timeStoppedRecording</key>
+			<real>574166416.97270894</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>57B114C7-4CFD-41E3-B379-72B86B2EEFA3</string>
+		</dict>
+		<key>581F7E6E-01A6-463E-BCF2-42FFEB0135DD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>581F7E6E-01A6-463E-BCF2-42FFEB0135DD.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574167555.08412004</real>
+			<key>timeStoppedRecording</key>
+			<real>574167567.63569403</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>581F7E6E-01A6-463E-BCF2-42FFEB0135DD</string>
+		</dict>
+		<key>587FA1A8-722B-4276-8D8B-6612189E56EF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>587FA1A8-722B-4276-8D8B-6612189E56EF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574150959.48291504</real>
+			<key>timeStoppedRecording</key>
+			<real>574150963.42625999</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>587FA1A8-722B-4276-8D8B-6612189E56EF</string>
+		</dict>
+		<key>595FF767-BCD8-4854-80B2-8B924E2C13F7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>595FF767-BCD8-4854-80B2-8B924E2C13F7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574162351.56724596</real>
+			<key>timeStoppedRecording</key>
+			<real>574162361.44358802</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>595FF767-BCD8-4854-80B2-8B924E2C13F7</string>
+		</dict>
+		<key>5A863C3F-5B66-4502-A82E-7B3AAF451D1C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5A863C3F-5B66-4502-A82E-7B3AAF451D1C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574151129.53605294</real>
+			<key>timeStoppedRecording</key>
+			<real>574151139.65502799</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>5A863C3F-5B66-4502-A82E-7B3AAF451D1C</string>
+		</dict>
+		<key>5B07FA4D-9EFA-4493-802E-E72546B55134</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5B07FA4D-9EFA-4493-802E-E72546B55134.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574154562.86585605</real>
+			<key>timeStoppedRecording</key>
+			<real>574154573.23384798</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>5B07FA4D-9EFA-4493-802E-E72546B55134</string>
+		</dict>
+		<key>5CA936EB-97AC-4313-B651-267FADE61D25</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5CA936EB-97AC-4313-B651-267FADE61D25.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574156483.01877201</real>
+			<key>timeStoppedRecording</key>
+			<real>574156493.71766102</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>5CA936EB-97AC-4313-B651-267FADE61D25</string>
+		</dict>
+		<key>612F9A24-5532-4F85-AB92-D0F141DBF05F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>612F9A24-5532-4F85-AB92-D0F141DBF05F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574152303.18219101</real>
+			<key>timeStoppedRecording</key>
+			<real>574152310.05177903</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>612F9A24-5532-4F85-AB92-D0F141DBF05F</string>
+		</dict>
+		<key>61956BD1-33E8-461F-BB79-ED386EF7518B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>61956BD1-33E8-461F-BB79-ED386EF7518B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574152390.43601096</real>
+			<key>timeStoppedRecording</key>
+			<real>574152401.12580705</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>61956BD1-33E8-461F-BB79-ED386EF7518B</string>
+		</dict>
+		<key>6202C35E-54BB-49F3-8CF0-69CD5A03328A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6202C35E-54BB-49F3-8CF0-69CD5A03328A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574166878.03085995</real>
+			<key>timeStoppedRecording</key>
+			<real>574166888.98526704</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>6202C35E-54BB-49F3-8CF0-69CD5A03328A</string>
+		</dict>
+		<key>628792DB-7F7A-4666-B7A1-BB3B518B1355</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>628792DB-7F7A-4666-B7A1-BB3B518B1355.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574164402.09130096</real>
+			<key>timeStoppedRecording</key>
+			<real>574164412.39794099</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>628792DB-7F7A-4666-B7A1-BB3B518B1355</string>
+		</dict>
+		<key>62B779E9-33F8-4019-99CF-0B09B06BC7EF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>62B779E9-33F8-4019-99CF-0B09B06BC7EF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574150414.89318097</real>
+			<key>timeStoppedRecording</key>
+			<real>574150425.28747594</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>62B779E9-33F8-4019-99CF-0B09B06BC7EF</string>
+		</dict>
+		<key>6399171A-2EE3-4CD8-B043-05E002298021</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6399171A-2EE3-4CD8-B043-05E002298021.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574159342.69063604</real>
+			<key>timeStoppedRecording</key>
+			<real>574159353.53150296</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>6399171A-2EE3-4CD8-B043-05E002298021</string>
+		</dict>
+		<key>68630650-96AF-4123-8B5B-385399C1FA02</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>68630650-96AF-4123-8B5B-385399C1FA02.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574156081.99824905</real>
+			<key>timeStoppedRecording</key>
+			<real>574156092.44827104</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>68630650-96AF-4123-8B5B-385399C1FA02</string>
+		</dict>
+		<key>68D738DC-6252-475F-B60C-56435611CC88</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>68D738DC-6252-475F-B60C-56435611CC88.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574162496.77332604</real>
+			<key>timeStoppedRecording</key>
+			<real>574162507.15105295</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>68D738DC-6252-475F-B60C-56435611CC88</string>
+		</dict>
+		<key>6913786F-8CE6-414B-B640-2952BA8CB97F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6913786F-8CE6-414B-B640-2952BA8CB97F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574173513.18468797</real>
+			<key>timeStoppedRecording</key>
+			<real>574173515.156021</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>6913786F-8CE6-414B-B640-2952BA8CB97F</string>
+		</dict>
+		<key>6C388C9D-D6B6-4D80-8942-AC1755C08189</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6C388C9D-D6B6-4D80-8942-AC1755C08189.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574153466.19911897</real>
+			<key>timeStoppedRecording</key>
+			<real>574153477.56538796</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>6C388C9D-D6B6-4D80-8942-AC1755C08189</string>
+		</dict>
+		<key>6C51FD84-456E-4A7C-BD9B-B3FE03632836</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6C51FD84-456E-4A7C-BD9B-B3FE03632836.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574162921.86607099</real>
+			<key>timeStoppedRecording</key>
+			<real>574162932.50971699</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>6C51FD84-456E-4A7C-BD9B-B3FE03632836</string>
+		</dict>
+		<key>70B6B445-45F7-43FD-B3BA-D6DA267FBE63</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>70B6B445-45F7-43FD-B3BA-D6DA267FBE63.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574153615.85276401</real>
+			<key>timeStoppedRecording</key>
+			<real>574153626.68152499</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>70B6B445-45F7-43FD-B3BA-D6DA267FBE63</string>
+		</dict>
+		<key>73006CAB-1001-491E-BF9C-42B97EBC8787</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>73006CAB-1001-491E-BF9C-42B97EBC8787.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574151386.874295</real>
+			<key>timeStoppedRecording</key>
+			<real>574151390.11194897</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>73006CAB-1001-491E-BF9C-42B97EBC8787</string>
+		</dict>
+		<key>742B9542-D5E9-4E49-875A-298FA6DFB2D7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>742B9542-D5E9-4E49-875A-298FA6DFB2D7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574156371.92806697</real>
+			<key>timeStoppedRecording</key>
+			<real>574156382.21328998</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>742B9542-D5E9-4E49-875A-298FA6DFB2D7</string>
+		</dict>
+		<key>75A617E5-6BFC-427E-89DC-0FE0ED3187D6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>75A617E5-6BFC-427E-89DC-0FE0ED3187D6.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574164205.68974495</real>
+			<key>timeStoppedRecording</key>
+			<real>574164207.24716496</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>75A617E5-6BFC-427E-89DC-0FE0ED3187D6</string>
+		</dict>
+		<key>7C7AF44C-A715-45AC-8EE0-15FC486E640D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7C7AF44C-A715-45AC-8EE0-15FC486E640D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574155317.06926203</real>
+			<key>timeStoppedRecording</key>
+			<real>574155327.68803895</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>7C7AF44C-A715-45AC-8EE0-15FC486E640D</string>
+		</dict>
+		<key>7DACE2E1-12BC-47A9-ABB7-9B0A74F14984</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7DACE2E1-12BC-47A9-ABB7-9B0A74F14984.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574167053.94927001</real>
+			<key>timeStoppedRecording</key>
+			<real>574167059.87121201</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>7DACE2E1-12BC-47A9-ABB7-9B0A74F14984</string>
+		</dict>
+		<key>815EB1A2-6B02-439D-9C95-DB8C2E0EC461</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>815EB1A2-6B02-439D-9C95-DB8C2E0EC461.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574160404.79900098</real>
+			<key>timeStoppedRecording</key>
+			<real>574160415.18880296</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>815EB1A2-6B02-439D-9C95-DB8C2E0EC461</string>
+		</dict>
+		<key>81A0D910-7E71-46EB-9F50-DAF0317A6BE1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>81A0D910-7E71-46EB-9F50-DAF0317A6BE1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574157770.30253899</real>
+			<key>timeStoppedRecording</key>
+			<real>574157794.28441501</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>81A0D910-7E71-46EB-9F50-DAF0317A6BE1</string>
+		</dict>
+		<key>83E09580-AFE8-4F53-BCB4-58957467D336</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>83E09580-AFE8-4F53-BCB4-58957467D336.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574155052.59457099</real>
+			<key>timeStoppedRecording</key>
+			<real>574155062.86923206</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>83E09580-AFE8-4F53-BCB4-58957467D336</string>
+		</dict>
+		<key>845E3D67-786A-451E-B6BD-60CCDA5E617E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>845E3D67-786A-451E-B6BD-60CCDA5E617E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574162483.67026699</real>
+			<key>timeStoppedRecording</key>
+			<real>574162486.40722501</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>845E3D67-786A-451E-B6BD-60CCDA5E617E</string>
+		</dict>
+		<key>865A2EA3-DE6B-40D6-8292-A58B31B6D75F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>865A2EA3-DE6B-40D6-8292-A58B31B6D75F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574163437.67428994</real>
+			<key>timeStoppedRecording</key>
+			<real>574163448.03122306</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>865A2EA3-DE6B-40D6-8292-A58B31B6D75F</string>
+		</dict>
+		<key>86BF8E05-104F-4376-8066-E235CFE0FD37</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>86BF8E05-104F-4376-8066-E235CFE0FD37.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574163407.13455498</real>
+			<key>timeStoppedRecording</key>
+			<real>574163413.75233805</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>86BF8E05-104F-4376-8066-E235CFE0FD37</string>
+		</dict>
+		<key>871F272F-2ACD-4D4E-8E71-535FF8E63DD9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>871F272F-2ACD-4D4E-8E71-535FF8E63DD9.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574162292.36703897</real>
+			<key>timeStoppedRecording</key>
+			<real>574162302.66279101</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>871F272F-2ACD-4D4E-8E71-535FF8E63DD9</string>
+		</dict>
+		<key>88769869-29D4-48DE-B96C-080189E05BB8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>88769869-29D4-48DE-B96C-080189E05BB8.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574167372.67184401</real>
+			<key>timeStoppedRecording</key>
+			<real>574167384.04141498</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>88769869-29D4-48DE-B96C-080189E05BB8</string>
+		</dict>
+		<key>88A51DDC-8419-4B2E-9131-E228D06FEEEA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>88A51DDC-8419-4B2E-9131-E228D06FEEEA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574156758.63396096</real>
+			<key>timeStoppedRecording</key>
+			<real>574156769.01606297</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>88A51DDC-8419-4B2E-9131-E228D06FEEEA</string>
+		</dict>
+		<key>8A22ED6B-37AE-43EF-8EFB-179841F87AA0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8A22ED6B-37AE-43EF-8EFB-179841F87AA0.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574152911.11426795</real>
+			<key>timeStoppedRecording</key>
+			<real>574152921.25219595</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>8A22ED6B-37AE-43EF-8EFB-179841F87AA0</string>
+		</dict>
+		<key>8AB44393-634C-49E5-A32A-A7F6F1BA7D3B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8AB44393-634C-49E5-A32A-A7F6F1BA7D3B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574154428.47958696</real>
+			<key>timeStoppedRecording</key>
+			<real>574154438.84446204</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>8AB44393-634C-49E5-A32A-A7F6F1BA7D3B</string>
+		</dict>
+		<key>8E5E5DD9-721E-4186-8071-6A529B28803C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8E5E5DD9-721E-4186-8071-6A529B28803C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574173446.67200804</real>
+			<key>timeStoppedRecording</key>
+			<real>574173457.41427004</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>8E5E5DD9-721E-4186-8071-6A529B28803C</string>
+		</dict>
+		<key>8EB8568C-3C3D-4283-9D95-4D13F12ECE5D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8EB8568C-3C3D-4283-9D95-4D13F12ECE5D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574154508.44650495</real>
+			<key>timeStoppedRecording</key>
+			<real>574154518.81689703</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>8EB8568C-3C3D-4283-9D95-4D13F12ECE5D</string>
+		</dict>
+		<key>8FFAA69D-AADB-4EF4-8335-E054CCE6771C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8FFAA69D-AADB-4EF4-8335-E054CCE6771C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574167448.22014701</real>
+			<key>timeStoppedRecording</key>
+			<real>574167457.63472295</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>8FFAA69D-AADB-4EF4-8335-E054CCE6771C</string>
+		</dict>
+		<key>90586515-7117-4BCA-BD9A-D6169C07CB36</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>90586515-7117-4BCA-BD9A-D6169C07CB36.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574166571.96450996</real>
+			<key>timeStoppedRecording</key>
+			<real>574166583.39849901</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>90586515-7117-4BCA-BD9A-D6169C07CB36</string>
+		</dict>
+		<key>909FB824-4632-49FB-8B27-1A7B5A61CE74</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>909FB824-4632-49FB-8B27-1A7B5A61CE74.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574165999.86862004</real>
+			<key>timeStoppedRecording</key>
+			<real>574166010.89323401</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>909FB824-4632-49FB-8B27-1A7B5A61CE74</string>
+		</dict>
+		<key>927FEC0B-EB07-4C45-8F99-D996BB4C4C1C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>927FEC0B-EB07-4C45-8F99-D996BB4C4C1C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574151404.21405101</real>
+			<key>timeStoppedRecording</key>
+			<real>574151414.4562</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>927FEC0B-EB07-4C45-8F99-D996BB4C4C1C</string>
+		</dict>
+		<key>92D9D41F-D74A-4EC5-A391-097B64C79A7F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>92D9D41F-D74A-4EC5-A391-097B64C79A7F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574150607.22673595</real>
+			<key>timeStoppedRecording</key>
+			<real>574150616.59723103</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>92D9D41F-D74A-4EC5-A391-097B64C79A7F</string>
+		</dict>
+		<key>93335A07-3B4F-45A1-8763-48D41E194E2F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>93335A07-3B4F-45A1-8763-48D41E194E2F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574155750.40818202</real>
+			<key>timeStoppedRecording</key>
+			<real>574155761.61296201</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>93335A07-3B4F-45A1-8763-48D41E194E2F</string>
+		</dict>
+		<key>961FE7D8-3DAC-46BA-A3B5-10F443320169</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>961FE7D8-3DAC-46BA-A3B5-10F443320169.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574163151.43118405</real>
+			<key>timeStoppedRecording</key>
+			<real>574163161.76747</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>961FE7D8-3DAC-46BA-A3B5-10F443320169</string>
+		</dict>
+		<key>97672916-CDAE-433D-A744-2D62A11D9928</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>97672916-CDAE-433D-A744-2D62A11D9928.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574159945.20698404</real>
+			<key>timeStoppedRecording</key>
+			<real>574159955.77795196</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>97672916-CDAE-433D-A744-2D62A11D9928</string>
+		</dict>
+		<key>9D3BD010-A3F9-48D0-86E7-07878A974F5E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9D3BD010-A3F9-48D0-86E7-07878A974F5E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574173512.42336595</real>
+			<key>timeStoppedRecording</key>
+			<real>574173513.17878306</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>9D3BD010-A3F9-48D0-86E7-07878A974F5E</string>
+		</dict>
+		<key>9F5F127E-F0B4-4A0B-91E5-A1D3ED5A5417</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9F5F127E-F0B4-4A0B-91E5-A1D3ED5A5417.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574166132.333987</real>
+			<key>timeStoppedRecording</key>
+			<real>574166143.74784398</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>9F5F127E-F0B4-4A0B-91E5-A1D3ED5A5417</string>
+		</dict>
+		<key>9F834179-8E4C-4CA7-9C56-EA2F584ECD1E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9F834179-8E4C-4CA7-9C56-EA2F584ECD1E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574160863.30701303</real>
+			<key>timeStoppedRecording</key>
+			<real>574160873.92869902</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>9F834179-8E4C-4CA7-9C56-EA2F584ECD1E</string>
+		</dict>
+		<key>A15BC7D5-CE94-4F4B-8CEE-F2515FC41974</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A15BC7D5-CE94-4F4B-8CEE-F2515FC41974.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574166599.25229502</real>
+			<key>timeStoppedRecording</key>
+			<real>574166609.07799494</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>A15BC7D5-CE94-4F4B-8CEE-F2515FC41974</string>
+		</dict>
+		<key>A25BBEA2-6ED5-4DC5-BD73-D35B522C295C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A25BBEA2-6ED5-4DC5-BD73-D35B522C295C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574164207.29533899</real>
+			<key>timeStoppedRecording</key>
+			<real>574164217.31845701</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>A25BBEA2-6ED5-4DC5-BD73-D35B522C295C</string>
+		</dict>
+		<key>A2B9BB7C-84E8-4788-B7F2-3E6EB21CCA95</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A2B9BB7C-84E8-4788-B7F2-3E6EB21CCA95.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574166533.71129596</real>
+			<key>timeStoppedRecording</key>
+			<real>574166544.12211299</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>A2B9BB7C-84E8-4788-B7F2-3E6EB21CCA95</string>
+		</dict>
+		<key>A43BA1B7-F960-45B3-ABEF-01B1AFF4BA52</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A43BA1B7-F960-45B3-ABEF-01B1AFF4BA52.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574166499.20698404</real>
+			<key>timeStoppedRecording</key>
+			<real>574166509.56278098</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>A43BA1B7-F960-45B3-ABEF-01B1AFF4BA52</string>
+		</dict>
+		<key>A5B3F680-346E-45FC-875D-06AF1834CF40</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A5B3F680-346E-45FC-875D-06AF1834CF40.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574150829.14826</real>
+			<key>timeStoppedRecording</key>
+			<real>574150840.12613404</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>A5B3F680-346E-45FC-875D-06AF1834CF40</string>
+		</dict>
+		<key>A70B4290-A298-43A5-8B9C-95B6B91895EC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A70B4290-A298-43A5-8B9C-95B6B91895EC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574164107.69124997</real>
+			<key>timeStoppedRecording</key>
+			<real>574164118.18601501</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>A70B4290-A298-43A5-8B9C-95B6B91895EC</string>
+		</dict>
+		<key>A90D4439-F207-4469-9390-467E3F9F9203</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A90D4439-F207-4469-9390-467E3F9F9203.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574160127.418908</real>
+			<key>timeStoppedRecording</key>
+			<real>574160138.00094402</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>A90D4439-F207-4469-9390-467E3F9F9203</string>
+		</dict>
+		<key>A9415D68-85AB-46E6-ACA8-9D50737644DF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A9415D68-85AB-46E6-ACA8-9D50737644DF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574155295.70018697</real>
+			<key>timeStoppedRecording</key>
+			<real>574155306.30035806</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>A9415D68-85AB-46E6-ACA8-9D50737644DF</string>
+		</dict>
+		<key>A9770EBE-F075-4069-AB63-35D51AAB2B65</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A9770EBE-F075-4069-AB63-35D51AAB2B65.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574154914.613011</real>
+			<key>timeStoppedRecording</key>
+			<real>574154924.96126401</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>A9770EBE-F075-4069-AB63-35D51AAB2B65</string>
+		</dict>
+		<key>AA6CB1AC-26EB-4B43-9EF2-2D69C574DCEB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AA6CB1AC-26EB-4B43-9EF2-2D69C574DCEB.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574150492.95092905</real>
+			<key>timeStoppedRecording</key>
+			<real>574150502.39092398</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>AA6CB1AC-26EB-4B43-9EF2-2D69C574DCEB</string>
+		</dict>
+		<key>AA7C6784-4DF4-4815-925A-6C76662A76A0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AA7C6784-4DF4-4815-925A-6C76662A76A0.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574155002.46423697</real>
+			<key>timeStoppedRecording</key>
+			<real>574155013.19795704</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>AA7C6784-4DF4-4815-925A-6C76662A76A0</string>
+		</dict>
+		<key>AC2DFD26-9FCA-4B62-BE57-B1BB46A933F3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AC2DFD26-9FCA-4B62-BE57-B1BB46A933F3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574167022.04377604</real>
+			<key>timeStoppedRecording</key>
+			<real>574167031.530442</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>AC2DFD26-9FCA-4B62-BE57-B1BB46A933F3</string>
+		</dict>
+		<key>AD33D36D-746A-4066-BA90-E5DC076CADBA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AD33D36D-746A-4066-BA90-E5DC076CADBA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574150880.04499805</real>
+			<key>timeStoppedRecording</key>
+			<real>574150890.00006795</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>AD33D36D-746A-4066-BA90-E5DC076CADBA</string>
+		</dict>
+		<key>ADEC541F-E4E0-4ACB-912B-4B56B6A497B9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>ADEC541F-E4E0-4ACB-912B-4B56B6A497B9.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574156451.99198198</real>
+			<key>timeStoppedRecording</key>
+			<real>574156462.77556205</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>ADEC541F-E4E0-4ACB-912B-4B56B6A497B9</string>
+		</dict>
+		<key>B36E0C87-E73A-4493-BBAE-554D833598B4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B36E0C87-E73A-4493-BBAE-554D833598B4.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574165506.83151603</real>
+			<key>timeStoppedRecording</key>
+			<real>574165517.42158496</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>B36E0C87-E73A-4493-BBAE-554D833598B4</string>
+		</dict>
+		<key>B68499A8-B0E3-4728-924B-B08CBB3901E8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B68499A8-B0E3-4728-924B-B08CBB3901E8.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574157848.93640995</real>
+			<key>timeStoppedRecording</key>
+			<real>574157872.48287499</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>B68499A8-B0E3-4728-924B-B08CBB3901E8</string>
+		</dict>
+		<key>B70D855A-BB7B-4F4D-83D0-F20C6FA3F61E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B70D855A-BB7B-4F4D-83D0-F20C6FA3F61E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574150853.28603697</real>
+			<key>timeStoppedRecording</key>
+			<real>574150862.82751298</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>B70D855A-BB7B-4F4D-83D0-F20C6FA3F61E</string>
+		</dict>
+		<key>BAD030C2-40C8-4BB9-8CFB-2C50B963FBC8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BAD030C2-40C8-4BB9-8CFB-2C50B963FBC8.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574154158.65763295</real>
+			<key>timeStoppedRecording</key>
+			<real>574154169.53071201</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>BAD030C2-40C8-4BB9-8CFB-2C50B963FBC8</string>
+		</dict>
+		<key>C00BA977-3623-4107-90D6-44C9C1C2D9D3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C00BA977-3623-4107-90D6-44C9C1C2D9D3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574156341.18960798</real>
+			<key>timeStoppedRecording</key>
+			<real>574156352.59897399</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>C00BA977-3623-4107-90D6-44C9C1C2D9D3</string>
+		</dict>
+		<key>C06322DD-CE4A-44B4-9CD0-3DABCDCF6411</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C06322DD-CE4A-44B4-9CD0-3DABCDCF6411.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574164000.50718403</real>
+			<key>timeStoppedRecording</key>
+			<real>574164011.89461303</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>C06322DD-CE4A-44B4-9CD0-3DABCDCF6411</string>
+		</dict>
+		<key>C16AD3FB-B606-4974-BE09-E8B9698CBECA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C16AD3FB-B606-4974-BE09-E8B9698CBECA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574155085.122401</real>
+			<key>timeStoppedRecording</key>
+			<real>574155095.79365897</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>C16AD3FB-B606-4974-BE09-E8B9698CBECA</string>
+		</dict>
+		<key>C32B2C3B-D8F4-4850-B54C-238BBCAE63F2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C32B2C3B-D8F4-4850-B54C-238BBCAE63F2.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574155914.00475299</real>
+			<key>timeStoppedRecording</key>
+			<real>574155924.13666403</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>C32B2C3B-D8F4-4850-B54C-238BBCAE63F2</string>
+		</dict>
+		<key>C770B7F4-C185-4AA4-908A-66FC3D758F67</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C770B7F4-C185-4AA4-908A-66FC3D758F67.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574150963.43142402</real>
+			<key>timeStoppedRecording</key>
+			<real>574150975.69797301</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>C770B7F4-C185-4AA4-908A-66FC3D758F67</string>
+		</dict>
+		<key>C8D46778-53D6-4D2B-A1D8-276CDA84E648</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C8D46778-53D6-4D2B-A1D8-276CDA84E648.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574160544.96128798</real>
+			<key>timeStoppedRecording</key>
+			<real>574160555.084131</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>C8D46778-53D6-4D2B-A1D8-276CDA84E648</string>
+		</dict>
+		<key>C8F253DE-1D04-4A88-8DC0-5A45BA294290</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C8F253DE-1D04-4A88-8DC0-5A45BA294290.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574153743.12015998</real>
+			<key>timeStoppedRecording</key>
+			<real>574153753.51125705</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>C8F253DE-1D04-4A88-8DC0-5A45BA294290</string>
+		</dict>
+		<key>C93358DF-6DB4-45D9-8441-67A16E593F88</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C93358DF-6DB4-45D9-8441-67A16E593F88.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574152295.18145704</real>
+			<key>timeStoppedRecording</key>
+			<real>574152295.95577705</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>C93358DF-6DB4-45D9-8441-67A16E593F88</string>
+		</dict>
+		<key>C9B3C64F-0617-4EAF-AFD3-ABD3496D0CB5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C9B3C64F-0617-4EAF-AFD3-ABD3496D0CB5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574166252.70400202</real>
+			<key>timeStoppedRecording</key>
+			<real>574166264.84926701</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>C9B3C64F-0617-4EAF-AFD3-ABD3496D0CB5</string>
+		</dict>
+		<key>C9DCAC59-5207-4C14-A2A6-79B5F2501C73</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C9DCAC59-5207-4C14-A2A6-79B5F2501C73.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574155215.789729</real>
+			<key>timeStoppedRecording</key>
+			<real>574155226.97086501</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>C9DCAC59-5207-4C14-A2A6-79B5F2501C73</string>
+		</dict>
+		<key>CAE4D8B1-4160-405F-8F76-D75931FCB5C6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CAE4D8B1-4160-405F-8F76-D75931FCB5C6.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574167275.4641</real>
+			<key>timeStoppedRecording</key>
+			<real>574167286.27883697</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>CAE4D8B1-4160-405F-8F76-D75931FCB5C6</string>
+		</dict>
+		<key>CC57A79C-0343-4343-8801-666A67AD2588</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CC57A79C-0343-4343-8801-666A67AD2588.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574154289.53946102</real>
+			<key>timeStoppedRecording</key>
+			<real>574154299.75992405</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>CC57A79C-0343-4343-8801-666A67AD2588</string>
+		</dict>
+		<key>CCDF593E-059A-4E3A-BCA0-7D32E83671FA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CCDF593E-059A-4E3A-BCA0-7D32E83671FA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574159531.57409799</real>
+			<key>timeStoppedRecording</key>
+			<real>574159542.09915602</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>CCDF593E-059A-4E3A-BCA0-7D32E83671FA</string>
+		</dict>
+		<key>CCF8D5DC-4E20-4390-839D-F3920C54B7B7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CCF8D5DC-4E20-4390-839D-F3920C54B7B7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574160053.41610396</real>
+			<key>timeStoppedRecording</key>
+			<real>574160063.56870198</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>CCF8D5DC-4E20-4390-839D-F3920C54B7B7</string>
+		</dict>
+		<key>CDB02D56-FC6E-4B57-9BC0-990D88ADF527</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CDB02D56-FC6E-4B57-9BC0-990D88ADF527.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574156791.63434803</real>
+			<key>timeStoppedRecording</key>
+			<real>574156801.81957805</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>CDB02D56-FC6E-4B57-9BC0-990D88ADF527</string>
+		</dict>
+		<key>D1D1FE05-6C0E-4FDE-B6E8-50D7C9D00CA9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D1D1FE05-6C0E-4FDE-B6E8-50D7C9D00CA9.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574162451.60671604</real>
+			<key>timeStoppedRecording</key>
+			<real>574162461.89412904</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>D1D1FE05-6C0E-4FDE-B6E8-50D7C9D00CA9</string>
+		</dict>
+		<key>D2AC03DA-A903-4209-95F0-EA2E43B879C2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D2AC03DA-A903-4209-95F0-EA2E43B879C2.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574161095.59562397</real>
+			<key>timeStoppedRecording</key>
+			<real>574161105.48322797</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>D2AC03DA-A903-4209-95F0-EA2E43B879C2</string>
+		</dict>
+		<key>D312BA14-35E1-4DE3-A1D3-EC12A866D79F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D312BA14-35E1-4DE3-A1D3-EC12A866D79F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574155331.16443002</real>
+			<key>timeStoppedRecording</key>
+			<real>574155341.85261297</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>D312BA14-35E1-4DE3-A1D3-EC12A866D79F</string>
+		</dict>
+		<key>D46A49CC-2049-4639-AB4A-8E1838777690</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D46A49CC-2049-4639-AB4A-8E1838777690.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574161027.40797102</real>
+			<key>timeStoppedRecording</key>
+			<real>574161037.53526199</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>D46A49CC-2049-4639-AB4A-8E1838777690</string>
+		</dict>
+		<key>D7687A4E-C18C-4AA2-BC1D-54AD7CC739BE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D7687A4E-C18C-4AA2-BC1D-54AD7CC739BE.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574166898.85558796</real>
+			<key>timeStoppedRecording</key>
+			<real>574166909.45318794</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>D7687A4E-C18C-4AA2-BC1D-54AD7CC739BE</string>
+		</dict>
+		<key>D97C83D4-AD7E-4DD5-8306-A9EEA0F43BB8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D97C83D4-AD7E-4DD5-8306-A9EEA0F43BB8.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574153557.79072797</real>
+			<key>timeStoppedRecording</key>
+			<real>574153570.76695096</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>D97C83D4-AD7E-4DD5-8306-A9EEA0F43BB8</string>
+		</dict>
+		<key>DA203546-EF8C-4780-9ED9-04544B043994</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DA203546-EF8C-4780-9ED9-04544B043994.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574159587.18040395</real>
+			<key>timeStoppedRecording</key>
+			<real>574159598.94843805</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>DA203546-EF8C-4780-9ED9-04544B043994</string>
+		</dict>
+		<key>DB2D3E92-6B94-4DCD-8F88-8D4FF14D37F1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DB2D3E92-6B94-4DCD-8F88-8D4FF14D37F1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574155453.52993798</real>
+			<key>timeStoppedRecording</key>
+			<real>574155465.15876997</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>DB2D3E92-6B94-4DCD-8F88-8D4FF14D37F1</string>
+		</dict>
+		<key>E17F53E3-C71D-438B-BDAF-6E5B62E0DDFC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E17F53E3-C71D-438B-BDAF-6E5B62E0DDFC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574159874.77554798</real>
+			<key>timeStoppedRecording</key>
+			<real>574159885.27932096</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>E17F53E3-C71D-438B-BDAF-6E5B62E0DDFC</string>
+		</dict>
+		<key>E1FAB160-025F-482A-A1C6-E5C05D4A387B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E1FAB160-025F-482A-A1C6-E5C05D4A387B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574155228.62890899</real>
+			<key>timeStoppedRecording</key>
+			<real>574155240.869537</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>E1FAB160-025F-482A-A1C6-E5C05D4A387B</string>
+		</dict>
+		<key>E23A6C6A-CB0B-49AA-848B-8FB4218D1A0D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E23A6C6A-CB0B-49AA-848B-8FB4218D1A0D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574165699.75808299</real>
+			<key>timeStoppedRecording</key>
+			<real>574165710.00978005</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>E23A6C6A-CB0B-49AA-848B-8FB4218D1A0D</string>
+		</dict>
+		<key>E7574EEC-47D5-4274-8C38-D479FC13EE25</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E7574EEC-47D5-4274-8C38-D479FC13EE25.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574151277.97466099</real>
+			<key>timeStoppedRecording</key>
+			<real>574151280.56438196</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>E7574EEC-47D5-4274-8C38-D479FC13EE25</string>
+		</dict>
+		<key>E8921CE8-8352-49D5-9E09-26986E75FAAC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E8921CE8-8352-49D5-9E09-26986E75FAAC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574159926.01453805</real>
+			<key>timeStoppedRecording</key>
+			<real>574159936.06171405</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>E8921CE8-8352-49D5-9E09-26986E75FAAC</string>
+		</dict>
+		<key>EB5B1FC4-C1A5-4683-B747-EBE8F20C968C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EB5B1FC4-C1A5-4683-B747-EBE8F20C968C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574155532.77264094</real>
+			<key>timeStoppedRecording</key>
+			<real>574155543.55965197</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>EB5B1FC4-C1A5-4683-B747-EBE8F20C968C</string>
+		</dict>
+		<key>ED926AFC-5105-43BA-959A-7C7FAB4DC67C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>ED926AFC-5105-43BA-959A-7C7FAB4DC67C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574154597.55726898</real>
+			<key>timeStoppedRecording</key>
+			<real>574154608.50780296</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>ED926AFC-5105-43BA-959A-7C7FAB4DC67C</string>
+		</dict>
+		<key>F162164D-2EC5-4331-9A8B-0281B81386B1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F162164D-2EC5-4331-9A8B-0281B81386B1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574163947.31535804</real>
+			<key>timeStoppedRecording</key>
+			<real>574163959.43488896</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>F162164D-2EC5-4331-9A8B-0281B81386B1</string>
+		</dict>
+		<key>F1AAB47B-7C3C-4C5C-A9EB-018D397058BA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F1AAB47B-7C3C-4C5C-A9EB-018D397058BA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574163523.35183704</real>
+			<key>timeStoppedRecording</key>
+			<real>574163533.48940599</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>F1AAB47B-7C3C-4C5C-A9EB-018D397058BA</string>
+		</dict>
+		<key>F1CE3163-8D36-4722-AAD0-22D95AC894D6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F1CE3163-8D36-4722-AAD0-22D95AC894D6.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574163769.66625094</real>
+			<key>timeStoppedRecording</key>
+			<real>574163780.81256199</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>F1CE3163-8D36-4722-AAD0-22D95AC894D6</string>
+		</dict>
+		<key>F31FDCF4-BF71-4F21-9AB7-8C45BCCFCCAC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F31FDCF4-BF71-4F21-9AB7-8C45BCCFCCAC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574160368.95038998</real>
+			<key>timeStoppedRecording</key>
+			<real>574160379.21378195</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>F31FDCF4-BF71-4F21-9AB7-8C45BCCFCCAC</string>
+		</dict>
+		<key>F3726301-1130-4AB6-A0E1-D899DE642F36</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F3726301-1130-4AB6-A0E1-D899DE642F36.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574163736.60667706</real>
+			<key>timeStoppedRecording</key>
+			<real>574163738.02132905</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>F3726301-1130-4AB6-A0E1-D899DE642F36</string>
+		</dict>
+		<key>F42C56C2-81EC-41A7-B2EE-38E8CA69E60A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F42C56C2-81EC-41A7-B2EE-38E8CA69E60A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574157906.34267199</real>
+			<key>timeStoppedRecording</key>
+			<real>574157930.69375396</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>F42C56C2-81EC-41A7-B2EE-38E8CA69E60A</string>
+		</dict>
+		<key>F56FF8EB-105A-401C-8DA6-0A817942540D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F56FF8EB-105A-401C-8DA6-0A817942540D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574162530.00929904</real>
+			<key>timeStoppedRecording</key>
+			<real>574162539.62811303</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>F56FF8EB-105A-401C-8DA6-0A817942540D</string>
+		</dict>
+		<key>F575B974-2A43-4C7E-9F87-36B44E032BE4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F575B974-2A43-4C7E-9F87-36B44E032BE4.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574152465.14927995</real>
+			<key>timeStoppedRecording</key>
+			<real>574152473.36834705</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>F575B974-2A43-4C7E-9F87-36B44E032BE4</string>
+		</dict>
+		<key>F59C358C-FC62-4C4E-ACCC-E9776498D2A7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F59C358C-FC62-4C4E-ACCC-E9776498D2A7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574152270.07289302</real>
+			<key>timeStoppedRecording</key>
+			<real>574152272.70081604</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>F59C358C-FC62-4C4E-ACCC-E9776498D2A7</string>
+		</dict>
+		<key>F5CDDE8D-2CB7-4F61-803E-4E1089AFF5C0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F5CDDE8D-2CB7-4F61-803E-4E1089AFF5C0.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574163618.68360305</real>
+			<key>timeStoppedRecording</key>
+			<real>574163628.80492902</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>F5CDDE8D-2CB7-4F61-803E-4E1089AFF5C0</string>
+		</dict>
+		<key>F70F7986-3CE8-40B2-B5C1-BF705E85AA20</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F70F7986-3CE8-40B2-B5C1-BF705E85AA20.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574165467.89441001</real>
+			<key>timeStoppedRecording</key>
+			<real>574165478.16544795</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>F70F7986-3CE8-40B2-B5C1-BF705E85AA20</string>
+		</dict>
+		<key>F86C3FAB-52A3-4B6C-937E-0D3A5CF2C67A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F86C3FAB-52A3-4B6C-937E-0D3A5CF2C67A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574162486.48975396</real>
+			<key>timeStoppedRecording</key>
+			<real>574162496.69928396</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>F86C3FAB-52A3-4B6C-937E-0D3A5CF2C67A</string>
+		</dict>
+		<key>FA7F7DE0-F41B-4273-9765-4849B762DC53</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FA7F7DE0-F41B-4273-9765-4849B762DC53.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574173503.78720105</real>
+			<key>timeStoppedRecording</key>
+			<real>574173512.41635096</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>FA7F7DE0-F41B-4273-9765-4849B762DC53</string>
+		</dict>
+		<key>FB4D62DB-063B-4B0A-96C4-E5787C6C3E49</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FB4D62DB-063B-4B0A-96C4-E5787C6C3E49.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574150906.83636498</real>
+			<key>timeStoppedRecording</key>
+			<real>574150917.02416003</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>FB4D62DB-063B-4B0A-96C4-E5787C6C3E49</string>
+		</dict>
+		<key>FB7AB5F2-0694-4E8D-91EF-E39EDE29C0FB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FB7AB5F2-0694-4E8D-91EF-E39EDE29C0FB.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574164204.44047296</real>
+			<key>timeStoppedRecording</key>
+			<real>574164205.64023304</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>FB7AB5F2-0694-4E8D-91EF-E39EDE29C0FB</string>
+		</dict>
+		<key>FCE2AC30-2434-4DA8-9741-40FE69F1779A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FCE2AC30-2434-4DA8-9741-40FE69F1779A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574163738.04005206</real>
+			<key>timeStoppedRecording</key>
+			<real>574163741.02318203</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>FCE2AC30-2434-4DA8-9741-40FE69F1779A</string>
+		</dict>
+		<key>FE1959F0-8C6E-41D3-9786-F5489DCD613D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FE1959F0-8C6E-41D3-9786-F5489DCD613D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574162386.61226106</real>
+			<key>timeStoppedRecording</key>
+			<real>574162397.02286696</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>FE1959F0-8C6E-41D3-9786-F5489DCD613D</string>
+		</dict>
+		<key>FE3A2B84-9E03-4683-BF5E-77D004E54A72</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FE3A2B84-9E03-4683-BF5E-77D004E54A72.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574166717.66091597</real>
+			<key>timeStoppedRecording</key>
+			<real>574166718.75937104</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>FE3A2B84-9E03-4683-BF5E-77D004E54A72</string>
+		</dict>
+		<key>FF0AE339-06C0-4113-A926-5E1E4012B8AE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FF0AE339-06C0-4113-A926-5E1E4012B8AE.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574160273.28526402</real>
+			<key>timeStoppedRecording</key>
+			<real>574160284.59088898</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>FF0AE339-06C0-4113-A926-5E1E4012B8AE</string>
+		</dict>
+		<key>FFA0AE8D-61BA-499B-A91A-B4E8409404F2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FFA0AE8D-61BA-499B-A91A-B4E8409404F2.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574161712.24252903</real>
+			<key>timeStoppedRecording</key>
+			<real>574161722.38362205</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>FFA0AE8D-61BA-499B-A91A-B4E8409404F2</string>
+		</dict>
+		<key>FFB845F8-4F50-4188-9C72-F43E1E146D57</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FFB845F8-4F50-4188-9C72-F43E1E146D57.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574156946.04765105</real>
+			<key>timeStoppedRecording</key>
+			<real>574156955.92407703</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>FFB845F8-4F50-4188-9C72-F43E1E146D57</string>
+		</dict>
+		<key>FFBBCA94-6216-49DA-A092-D3AB4021A6F1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FFBBCA94-6216-49DA-A092-D3AB4021A6F1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574161779.30337596</real>
+			<key>timeStoppedRecording</key>
+			<real>574161789.80411899</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>FFBBCA94-6216-49DA-A092-D3AB4021A6F1</string>
+		</dict>
+		<key>FFD8E1B7-0181-4C81-8040-155BD58D0127</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FFD8E1B7-0181-4C81-8040-155BD58D0127.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CraftDemoApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CraftDemoApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CraftDemoApp</string>
+			<key>timeStartedRecording</key>
+			<real>574167415.60778105</real>
+			<key>timeStoppedRecording</key>
+			<real>574167426.05837798</real>
+			<key>title</key>
+			<string>Build CraftDemoApp</string>
+			<key>uniqueIdentifier</key>
+			<string>FFD8E1B7-0181-4C81-8040-155BD58D0127</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

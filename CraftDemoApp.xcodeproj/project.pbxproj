@@ -7,21 +7,31 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		14293EFE2238D40800575EC6 /* SavingsAPIService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14293EFD2238D40800575EC6 /* SavingsAPIService.swift */; };
+		14293F002238D41000575EC6 /* APIURLs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14293EFF2238D41000575EC6 /* APIURLs.swift */; };
 		142D2C452238C7D800AB0F2A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 142D2C442238C7D800AB0F2A /* AppDelegate.swift */; };
-		142D2C472238C7D800AB0F2A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 142D2C462238C7D800AB0F2A /* ViewController.swift */; };
 		142D2C4A2238C7D800AB0F2A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 142D2C482238C7D800AB0F2A /* Main.storyboard */; };
 		142D2C4C2238C7DA00AB0F2A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 142D2C4B2238C7DA00AB0F2A /* Assets.xcassets */; };
 		142D2C4F2238C7DA00AB0F2A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 142D2C4D2238C7DA00AB0F2A /* LaunchScreen.storyboard */; };
+		146EE7D12238D75B001A21ED /* StatusViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 146EE7CF2238D75B001A21ED /* StatusViewController.swift */; };
+		146EE7D22238D75B001A21ED /* ProgressCircleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 146EE7D02238D75B001A21ED /* ProgressCircleViewController.swift */; };
+		146EE7D42238D97A001A21ED /* SavingsUpdateService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 146EE7D32238D97A001A21ED /* SavingsUpdateService.swift */; };
+		146EE7DE2239312D001A21ED /* CraftDemoFramework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 146EE7DD2239312D001A21ED /* CraftDemoFramework.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		14293EFD2238D40800575EC6 /* SavingsAPIService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SavingsAPIService.swift; sourceTree = "<group>"; };
+		14293EFF2238D41000575EC6 /* APIURLs.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = APIURLs.swift; sourceTree = "<group>"; };
 		142D2C412238C7D800AB0F2A /* CraftDemoApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CraftDemoApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		142D2C442238C7D800AB0F2A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		142D2C462238C7D800AB0F2A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		142D2C492238C7D800AB0F2A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		142D2C4B2238C7DA00AB0F2A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		142D2C4E2238C7DA00AB0F2A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		142D2C502238C7DA00AB0F2A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		146EE7CF2238D75B001A21ED /* StatusViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StatusViewController.swift; sourceTree = "<group>"; wrapsLines = 0; };
+		146EE7D02238D75B001A21ED /* ProgressCircleViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProgressCircleViewController.swift; sourceTree = "<group>"; };
+		146EE7D32238D97A001A21ED /* SavingsUpdateService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SavingsUpdateService.swift; sourceTree = "<group>"; };
+		146EE7DD2239312D001A21ED /* CraftDemoFramework.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CraftDemoFramework.framework; path = Carthage/Build/iOS/CraftDemoFramework.framework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,6 +39,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				146EE7DE2239312D001A21ED /* CraftDemoFramework.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -40,6 +51,7 @@
 			children = (
 				142D2C432238C7D800AB0F2A /* CraftDemoApp */,
 				142D2C422238C7D800AB0F2A /* Products */,
+				142D2C622238C9E300AB0F2A /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -54,14 +66,50 @@
 		142D2C432238C7D800AB0F2A /* CraftDemoApp */ = {
 			isa = PBXGroup;
 			children = (
+				146EE7CE2238D744001A21ED /* ViewControllers */,
+				142D2C572238C81600AB0F2A /* Services */,
+				142D2C562238C80F00AB0F2A /* Models */,
 				142D2C442238C7D800AB0F2A /* AppDelegate.swift */,
-				142D2C462238C7D800AB0F2A /* ViewController.swift */,
 				142D2C482238C7D800AB0F2A /* Main.storyboard */,
 				142D2C4B2238C7DA00AB0F2A /* Assets.xcassets */,
 				142D2C4D2238C7DA00AB0F2A /* LaunchScreen.storyboard */,
 				142D2C502238C7DA00AB0F2A /* Info.plist */,
 			);
 			path = CraftDemoApp;
+			sourceTree = "<group>";
+		};
+		142D2C562238C80F00AB0F2A /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				14293EFF2238D41000575EC6 /* APIURLs.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		142D2C572238C81600AB0F2A /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				14293EFD2238D40800575EC6 /* SavingsAPIService.swift */,
+				146EE7D32238D97A001A21ED /* SavingsUpdateService.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		142D2C622238C9E300AB0F2A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				146EE7DD2239312D001A21ED /* CraftDemoFramework.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		146EE7CE2238D744001A21ED /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				146EE7D02238D75B001A21ED /* ProgressCircleViewController.swift */,
+				146EE7CF2238D75B001A21ED /* StatusViewController.swift */,
+			);
+			path = ViewControllers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -74,6 +122,7 @@
 				142D2C3D2238C7D800AB0F2A /* Sources */,
 				142D2C3E2238C7D800AB0F2A /* Frameworks */,
 				142D2C3F2238C7D800AB0F2A /* Resources */,
+				142D2C612238C9B400AB0F2A /* Cartahge Copy Frameworks */,
 			);
 			buildRules = (
 			);
@@ -130,12 +179,38 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		142D2C612238C9B400AB0F2A /* Cartahge Copy Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"$(SRCROOT)/Carthage/Build/iOS/CraftDemoFramework.framework",
+			);
+			name = "Cartahge Copy Frameworks";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "/usr/local/bin/carthage copy-frameworks\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		142D2C3D2238C7D800AB0F2A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				142D2C472238C7D800AB0F2A /* ViewController.swift in Sources */,
+				146EE7D12238D75B001A21ED /* StatusViewController.swift in Sources */,
+				14293EFE2238D40800575EC6 /* SavingsAPIService.swift in Sources */,
+				14293F002238D41000575EC6 /* APIURLs.swift in Sources */,
+				146EE7D22238D75B001A21ED /* ProgressCircleViewController.swift in Sources */,
+				146EE7D42238D97A001A21ED /* SavingsUpdateService.swift in Sources */,
 				142D2C452238C7D800AB0F2A /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -284,10 +359,21 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = B3NT7878BG;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+				);
 				INFOPLIST_FILE = CraftDemoApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
+					"\"$(SRCROOT)\"",
+					"\"$(PROJECT_DIR)\"",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(PROJECT_DIR)/**",
+					"\"$(SRCROOT)\"/**",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.FDG.CraftDemoApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -302,10 +388,21 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = B3NT7878BG;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+				);
 				INFOPLIST_FILE = CraftDemoApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
+					"\"$(SRCROOT)\"",
+					"\"$(PROJECT_DIR)\"",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(PROJECT_DIR)/**",
+					"\"$(SRCROOT)\"/**",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.FDG.CraftDemoApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
